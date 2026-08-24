@@ -97,11 +97,11 @@ The code can be found in repo: Defusal Rover 1.0 Code
 | :--- | :--- | :--- | :--- |
 | Esp32 38 pins | 1 | 8.68 USD | https://www.ardboard.com/index.php?route=product/product&product_id=413 |
 | L298N Motor Driver | 1 | 4.60 USD | https://elimex.bg/product/71197-kit-k2010-drayver-za-postoyannotokovi-motori |
-| LoRa Ra-02 433MHz | 1 | ~5.00 USD | https://www.ardboard.com/lora-ra-02-433MHz?search=LoRa |
-| Metal Gear Servos | 3 | ~15.00 USD | Standard SG90 / MG966R style metal gear servos |
+| LoRa Ra-02 433MHz | 1 | 11.15 USD | https://www.ardboard.com/lora-ra-02-433MHz?search=LoRa |
+| Metal Gear Servos | 3 | ~15.00 USD | https://elimex.bg/product/86312-kit-k2263-mg90s-390-mikro-servo-motor-metalni-zubni-kolela |
 | 4WD Robot Chassis Kit | 1 | 20.93 USD | https://elimex.bg/product/84826-shasi-za-robot-4wd-s-4-motora-i-2-osnovi-kit-za-sglobqvane |
 | 18650 Battery | 2 | 5.77 USD x2 = 11.54 USD | https://elimex.bg/product/85664-akumulator-3.7v-3400mah-lc18650-lava |
-| Battery holder & 2S BMS | 1 set | ~3.00 USD | Elimex / Local electronics store |
+| Battery holder & 2S BMS | 1 set | ~3.00 USD | https://elimex.bg/product/77722-battery-holder-lc18650 |
 | Power Switch & Wires | 1 | ~1.50 USD | Standard hardware components |
 
 ## Very important: Ensure you remove the black jumper caps from ENA and ENB on the L298N so they can be driven cleanly by the ESP32 PWM pins, and double-check that all ground wires are tied into a rock-solid common ground to avoid erratic servo behavior!
