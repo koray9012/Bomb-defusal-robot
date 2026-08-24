@@ -1,6 +1,6 @@
                                           Autonomous Defusal Rover 
                                                  By Koray
-![image alt](https://github.com/koray9012/Defusal-Rover-3.0/blob/main/rover_hero.jpg?raw=true)
+![image alt](https://github.com/koray9012/Bomb-defusal-robot/blob/main/16026.jpg?raw=true)
 An advanced, multi-motor ESP32 rover featuring an onboard mechanical arm with 3 metal-gear servos, LoRa long-range wireless telemetry, and smooth PWM power delivery designed to handle heavy tasks without browning out.
 You can let it run custom autonomous sequences or control it remotely over long distances via its LoRa module.
 
@@ -60,7 +60,7 @@ To solve this, I dove deep into hardware architecture: adding dedicated bulk cap
 
 Below is the complete wiring summary for the Defusal Rover 1.0.
 
-![image]()
+![image](https://github.com/koray9012/Bomb-defusal-robot/blob/main/%D0%95%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%20%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0%202026-08-24%20232720.png?raw=true)
 
 ### Pinout Breakdown:
 
