@@ -1,5 +1,5 @@
-                                          Autonomous Defusal Rover 3.0
-                                                    By Koray
+                                          Autonomous Defusal Rover 
+                                                 By Koray
 ![image alt](https://github.com/koray9012/Defusal-Rover-3.0/blob/main/rover_hero.jpg?raw=true)
 An advanced, multi-motor ESP32 rover featuring an onboard mechanical arm with 3 metal-gear servos, LoRa long-range wireless telemetry, and smooth PWM power delivery designed to handle heavy tasks without browning out.
 You can let it run custom autonomous sequences or control it remotely over long distances via its LoRa module.
@@ -58,7 +58,9 @@ To solve this, I dove deep into hardware architecture: adding dedicated bulk cap
 
 ### Wiring & Connections:
 
-Below is the complete wiring summary for the Defusal Rover 3.0.
+Below is the complete wiring summary for the Defusal Rover 1.0.
+
+![image]()
 
 ### Pinout Breakdown:
 
@@ -87,7 +89,7 @@ Below is the complete wiring summary for the Defusal Rover 3.0.
 
 ## Code:
 
-The code can be found in repo: Defusal Rover 3.0 Code
+The code can be found in repo: Defusal Rover 1.0 Code
 
 ## Bill of materials:
 
@@ -104,7 +106,7 @@ The code can be found in repo: Defusal Rover 3.0 Code
 
 ## Very important: Ensure you remove the black jumper caps from ENA and ENB on the L298N so they can be driven cleanly by the ESP32 PWM pins, and double-check that all ground wires are tied into a rock-solid common ground to avoid erratic servo behavior!
 
-## Video for car demo ()
+## Video for defusal rover demo (https://youtu.be/twnig8tyBAo)
 
 ## Credits:
 
