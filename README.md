@@ -60,7 +60,7 @@ To solve this, I dove deep into hardware architecture: adding dedicated bulk cap
 
 Below is the complete wiring summary for the Defusal Rover 1.0.
 
-![image](https://github.com/koray9012/Bomb-defusal-robot/blob/main/%D0%95%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%20%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0%202026-08-24%20232720.png?raw=true)
+![image](https://github.com/koray9012/Bomb-defusal-robot/blob/main/%D0%95%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%20%D1%81%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0%202026-08-25%20123108.png?raw=true)
 
 ### Pinout Breakdown:
 
