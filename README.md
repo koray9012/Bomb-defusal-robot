@@ -89,7 +89,7 @@ Below is the complete wiring summary for the Defusal Rover 1.0.
 
 ## Code:
 
-The code can be found in repo: Defusal Rover 1.0 Code
+The code can be found in repo: Bomb Defusal Robot 1.0 Code
 
 ## Bill of materials:
 
