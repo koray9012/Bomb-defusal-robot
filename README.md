@@ -95,14 +95,17 @@ The code can be found in repo: Defusal Rover 1.0 Code
 
 | Item | Quantity | Price (USD) | Link |
 | :--- | :--- | :--- | :--- |
-| Esp32 38 pins | 1 | 8.68 USD | https://www.ardboard.com/index.php?route=product/product&product_id=413 |
-| L298N Motor Driver | 1 | 4.60 USD | https://elimex.bg/product/71197-kit-k2010-drayver-za-postoyannotokovi-motori |
+| Esp32 38 pins | 1 | 8.89 USD | https://www.ardboard.com/index.php?route=product/product&product_id=413 |
+| L298N Motor Driver | 1 | 4.71 USD | https://elimex.bg/product/71197-kit-k2010-drayver-za-postoyannotokovi-motori |
 | LoRa Ra-02 433MHz | 1 | 11.15 USD | https://www.ardboard.com/lora-ra-02-433MHz?search=LoRa |
-| Metal Gear Servos | 3 | ~15.00 USD | https://elimex.bg/product/86312-kit-k2263-mg90s-390-mikro-servo-motor-metalni-zubni-kolela |
-| 4WD Robot Chassis Kit | 1 | 20.93 USD | https://elimex.bg/product/84826-shasi-za-robot-4wd-s-4-motora-i-2-osnovi-kit-za-sglobqvane |
-| 18650 Battery | 2 | 5.77 USD x2 = 11.54 USD | https://elimex.bg/product/85664-akumulator-3.7v-3400mah-lc18650-lava |
-| Battery holder & 2S BMS | 1 set | ~3.00 USD | https://elimex.bg/product/77722-battery-holder-lc18650 |
-| Power Switch & Wires | 1 | ~1.50 USD | Standard hardware components |
+| Metal Gear Servos | 3 | 10.67 USD | https://elimex.bg/product/86312-kit-k2263-mg90s-390-mikro-servo-motor-metalni-zubni-kolela |
+| 4WD Robot Chassis Kit | 1 | 21.42 USD | https://elimex.bg/product/84826-shasi-za-robot-4wd-s-4-motora-i-2-osnovi-kit-za-sglobqvane |
+| 18650 Battery | 2 | 5.90 USD x2 = 11.80 USD | https://elimex.bg/product/85664-akumulator-3.7v-3400mah-lc18650-lava |
+| Battery holder | 4 | 0.30 USD x4 1.20 | https://elimex.bg/product/77722-battery-holder-lc18650 |
+| 2S BMS | 1 | 1.33 USD | https://elimex.bg/product/77415-bsmpcm-kontroler-za-zaryada-i-razryada-na-li-ion-paket-2x18650-7-4v-8-4v3a |
+| Power Switch | 1 | 0.35 USD | https://elimex.bg/product/44024-switch-smrs101-1-black |
+| Jumper Cables | ~30 | 2.86 USD + 2.27 USD = 5.13 USD | https://elimex.bg/product/75823-komplekt-provodnitsi-40-broya-s-konektori-mazhki-zhenski-30sm https://elimex.bg/product/75823-komplekt-provodnitsi-40-broya-s-konektori-mazhki-zhenski-30sm AND https://elimex.bg/product/74894-komplekt-provodnitsi-40-broya-s-konektori-mazhki-mazhki-20sm |
+
 
 ## Very important: Ensure you remove the black jumper caps from ENA and ENB on the L298N so they can be driven cleanly by the ESP32 PWM pins, and double-check that all ground wires are tied into a rock-solid common ground to avoid erratic servo behavior!
 
