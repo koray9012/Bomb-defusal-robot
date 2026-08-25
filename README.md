@@ -107,7 +107,7 @@ The code can be found in repo: Bomb Defusal Robot 1.0 Code
 | Jumper Cables | ~30 | 2.86 USD + 2.27 USD = 5.13 USD | https://elimex.bg/product/75823-komplekt-provodnitsi-40-broya-s-konektori-mazhki-zhenski-30sm https://elimex.bg/product/75823-komplekt-provodnitsi-40-broya-s-konektori-mazhki-zhenski-30sm AND https://elimex.bg/product/74894-komplekt-provodnitsi-40-broya-s-konektori-mazhki-mazhki-20sm |
 
 
-## Very important: Ensure you remove the black jumper caps from ENA and ENB on the L298N so they can be driven cleanly by the ESP32 PWM pins, and double-check that all ground wires are tied into a rock-solid common ground to avoid erratic servo behavior!
+## Very important: Ensure you remove the black jumper caps from ENA and ENB on the L298N so they can be driven cleanly by the ESP32 PWM pins, and double-check that all ground wires are tied into a rock-solid common ground to avoid erratic servo behavior! When i write the LoRa module i also mean the antenna you connect to the module!
 
 ## Video for defusal rover demo (https://youtu.be/twnig8tyBAo)
 
